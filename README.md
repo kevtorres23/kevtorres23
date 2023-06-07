@@ -9,7 +9,7 @@
 
 - 📫 You can contact me at: **kevintu236@gmail.com**
 
-- ⚡ Fun fact **My favorite movie of all time is Interstellar!**
+- ⚡ Fun fact: **My favorite movie is Interstellar!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
