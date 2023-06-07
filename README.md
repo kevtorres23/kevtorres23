@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kevin!</h1>
-<h3 align="center">A curious and passionate frontend developer from México.</h3>
-
-- 🔭 I’m currently working on **coding basic programs.**
+<h3 align="center">A curious and passionate Software Engineering student in México.</h3>
 
 - 🌱 I’m currently learning **the fundamentals of C++ and Python.**
 
-- 👯 I’m looking to collaborate on **apps development.**
+- 👯 I’m looking to collaborate on **university projects**.
 
 - 📫 You can contact me at: **kevintu236@gmail.com**
 
