@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **apps development.**
 
-- 📫 How to reach me **kevintu236@gmail.com**
+- 📫 You can contact me at: **kevintu236@gmail.com**
 
 - ⚡ Fun fact **My favorite movie of all time is Interstellar!**
 
