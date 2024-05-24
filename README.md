@@ -1,13 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kevin!</h1>
-<h3 align="center">A curious and passionate Software Engineering student in México.</h3>
-
-- 🌱 I’m currently learning **the fundamentals of C++ and Python.**
-
-- 👯 I’m looking to collaborate on **university projects**.
-
-- 📫 You can contact me at: **kevintu236@gmail.com**
-
-- ⚡ Fun fact: **My favorite movie is Interstellar!**
+<h1 align="center">Hi, I'm Kevin!</h1>
+<h3 align="center">I'm a Software Engineering student in Mexico.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
