@@ -4,7 +4,7 @@
 ## About me
 🌱 I’m currently reinforcing HTML, CSS, and JavaScript.<br>
 📫 How to reach me: kevintu236@gmail.com.<br>
-🤖 You can find me in Discord as <a href="discordapp.com/users/764633985280114728">kevintorres8876</strong>.</a><br>
+🤖 You can find me in Discord as <a href="https://discordapp.com/users/764633985280114728">kevintorres8876</strong>.</a><br>
 ⚡ Fun fact: The Arrival is my current favorite movie.<br>
 
 ## My Stats:
