@@ -12,7 +12,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kevtorres23&show_icons=true&theme=catppuccin_latte" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevtorres23&theme=catppuccin_latte" alt="mystreak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevtorres23&theme=catppuccin_latte" alt="mystreak"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevtorres23&theme=catppuccin_latte&layout=compact"/>
 </div>
 
