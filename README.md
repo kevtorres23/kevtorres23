@@ -10,9 +10,9 @@
 ## My Stats:
 
 
-![](https://github-readme-stats.vercel.app/api?username=kevtorres23&show_icons=true&theme=tokyonight)<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevtorres23&theme=tokyonight" alt="mystreak"/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevtorres23&theme=tokyonight&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=kevtorres23&show_icons=true&theme=catppuccin_latte)<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevtorres23&theme=catppuccin_latte" alt="mystreak"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevtorres23&theme=catppuccin_latte&layout=compact)
 
 ## Languages and Tools:
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
