@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Kevin👋</h1>
-<h3 align="center">I'm a Software Engineering student in Mexico interested in designing and developing interfaces for websites.</h3>
+<h3 align="center">I'm a Software Engineering student in Mexico interested in web design and development.</h3>
 
 ## About me
 🌱 I’m currently reinforcing JavaScript and learning React.<br>
