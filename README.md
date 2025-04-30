@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevtorres23&theme=catppuccin_latte&layout=compact"/>
 </div>
 
-## Languages and Tools:
+## Languages and tools:
 <p align="left">
   <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="cplusplus" width="40" height="40"/></a>
