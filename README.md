@@ -1,9 +1,9 @@
 <h1 align="center">Hi! I'm Kevin👋</h1>
-<h3 align="center">I'm a Software Engineering student in Mexico interested in web design and development.</h3>
+<h3 align="center">I'm a software engineering student in Mexico interested in web design and development.</h3>
 
 ## About me
 🌱 I’m currently reinforcing JavaScript and learning React.<br>
-📫 How to reach me: kevintu236@gmail.com.<br>
+📫 You can reach me at: kevintu236@gmail.com.<br>
 🤖 You can find me in Discord as <a href="https://discordapp.com/users/764633985280114728">kevintorres8876</strong>.</a><br>
 ⚡ Fun fact: The Arrival is currently my favorite movie.<br>
 
