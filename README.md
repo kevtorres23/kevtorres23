@@ -3,6 +3,7 @@
 
 ## About me
 🌱 I’m currently reinforcing JavaScript and learning React.<br>
+🎨 I'm very interested in graphic design, and I enjoy doing some designs sometimes.<br>
 📫 You can reach me at: kevintu236@gmail.com.<br>
 🤖 You can find me in Discord as <a href="https://discordapp.com/users/764633985280114728">kevintorres8876</strong>.</a><br>
 ⚡ Fun fact: The Arrival is currently my favorite movie.<br>
