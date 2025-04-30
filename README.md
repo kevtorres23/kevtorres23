@@ -4,7 +4,7 @@
 ## About me
 🌱 I’m currently reinforcing JavaScript and learning React.<br>
 📫 You can reach me at: kevintu236@gmail.com.<br>
-🤖 You can find me in Discord as <a href="https://discordapp.com/users/764633985280114728">kevintorres8876</strong>.</a><br>
+🤖 You can find me in Discord as <a href="https://discordapp.com/users/764633985280114728">kevtu23</strong>.</a><br>
 ⚡ Fun fact: The Arrival is currently my favorite movie.<br>
 
 ## My Stats:
