@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" />
