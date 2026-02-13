@@ -22,4 +22,4 @@
 <img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" />
+<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=fff" />
