@@ -1,5 +1,5 @@
 <h1>Hi! I'm Kevin👋</h1>
-<p>I'm a software engineering student based in Mexico interested in web design and development.</h3>
+<p>I'm a software engineering student based in Mexico passionate about web design and development.</h3>
 
 ## About Me
 🌱 I’m currently building different things with React to continue learning about it.<br>
